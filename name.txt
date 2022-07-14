@@ -1,5 +1,2 @@
-Shayoni Mahato 
-Sophomore student at NIT Durgapur
-CS major
-logical
+Shayoni Mahato
 Hello world
